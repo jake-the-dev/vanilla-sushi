@@ -106,7 +106,7 @@ a {
 }
 
 /* START: about us media queries */
-/* @media screen and (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
   .about-us {
     flex-direction: column;
   }
@@ -166,7 +166,7 @@ a {
 
 
 /* START: header media querie */
-/* @media screen and (max-width: 900px) {
+@media screen and (max-width: 900px) {
   .header__nav {
     background: var(--primary-color);
   }
@@ -184,11 +184,11 @@ a {
   .header__logo {
     padding-left: 0;
   }
-} */
+}
 /* END: header media queries */
 
 /* START: hero media queries */
-/* @media screen and (max-width: 1060px) {
+@media screen and (max-width: 1060px) {
   .hero {
     flex-direction: column;
   }
@@ -232,11 +232,11 @@ a {
   .hero-content__testimonial {
     padding: 32px;
   }
-} */
+}
 /* END: hero media queries */
 
 /* START: popular media queries */
-/* @media screen and (max-width: 550px) {
+@media screen and (max-width: 550px) {
   .popular-foods {
     padding: 64px 32px;
   }
@@ -245,11 +245,11 @@ a {
   .popular-foods__card.active-card {
     min-width: 100%;
   }
-} */
+}
 /* END: popular media queries */
 
 /* START: subscribe media queries */
-/* @media screen and (max-width: 550px) {
+@media screen and (max-width: 550px) {
   .subscription {
     padding: 64px 32px;
   }
@@ -281,11 +281,11 @@ a {
   .subscription__form button {
     min-width: 100%;
   }
-} */
+}
 /* END: subscribe media queries */
 
 /* START: trending media queries */
-/* @media screen and (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
   .trending-sushi {
     flex-direction: column;
   }
@@ -317,5 +317,5 @@ a {
   .trending__content {
     padding: 32px;
   }
-} */
+}
 /* END: trending media queries */
